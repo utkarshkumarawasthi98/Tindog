@@ -1,2 +1,1 @@
-# Tindog
-Tindog is a clone of tinder website.
+TinDog Starting Files
